@@ -1,0 +1,8 @@
+GWL is exactly like the previous Gecko Web Labs project but this time it has it's design changed.
+The initial idea is still the same. Only design was changed.
+The reason for this change in deign is to cut production time.
+A site made with glassmorphism will be done faster than a normal site with animations and other features.
+
+Glass Web Labs is design to use the glassmorphism design...
+Using the blur filter in css and making the divs transparent wll create a glass effect on the site.
+That is basically the principle guiding the GWL project design.

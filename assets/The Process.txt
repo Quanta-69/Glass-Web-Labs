@@ -1,0 +1,11 @@
+Alright...These are the ideas that guide the creation of Glass Web Labs (GWL)
+
+There are PAGES and there are SECTIONS
+
+I'm making this site in such a way that almost everything is a component and can be edited without affecting the other parts of the site.
+
+I mean...PAGES are MADE up of SECTIONS...this means that all sections will be made as separate components in the components folder and this folder contains sub-folders that carry the names of the PAGES they represent.
+
+These SECTIONS will now be imported into the PAGES which are in the pages folder of the project.
+
+By doing this, We can easily add or remove sections anytime without disrupting the normal flow of the website

@@ -1,0 +1,16 @@
+This will explain the use of each major file in this project
+
+___________THE CSS FILES in the assets folder of GWL_________
+
+The two main CSS files (global.css & default.css) govern all of the styles in the project
+===> The default.css file handles all default styles such as font family scrollbar settings
+===> The global.css file handles styles for general sections and wrappers that will be used everywhere..for example the width of section being 100%
+
+IMPORTANT: If any extra styles for a particular section is needed, you are allowed to make these changes in the section's file...for example you need extra styles for the hero section, you will do this in the hero-section.vue file. 
+REMEMBER to always add the @reference "tailwindcss" line if tailwind will be needed. For example, you add the @reference "tailwindcss" line in the style tag before writing every other CSS code.
+
+_________The files under the pages directory in the project root_______
+These files are the various pages of the site...their names will be the various links of the site. 
+For example, the index.vue file is the initial landing page of the website and it contains it's various sections contained in it.
+
+These various SECTIONS are imported into the page files from the components>pages>[specified page] folder.
